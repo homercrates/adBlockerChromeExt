@@ -7,8 +7,8 @@
         "scripts": ["background.js"]
     },
     "icons": {
-        "16": "",
-        "48": "",
-        "128": ""
+        "16": "icons/smwacross.jpg",
+        "48": "icons/smwacross.jpg",
+        "128": "icons/smwacross.jpg"
     }
 }
