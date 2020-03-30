@@ -10,5 +10,6 @@
         "16": "icons/smwacross.jpg",
         "48": "icons/smwacross.jpg",
         "128": "icons/smwacross.jpg"
-    }
+    },
+    "manifest_version": 2
 }
