@@ -1,0 +1,14 @@
+{
+    "name": "SMW Ad Blocker",
+    "version": "1.0",
+    "description": "Simple Ad Blocker for Chrome.",
+    "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
+    "background": {
+        "scripts": ["background.js"]
+    },
+    "icons": {
+        "16": "",
+        "48": "",
+        "128": ""
+    }
+}
